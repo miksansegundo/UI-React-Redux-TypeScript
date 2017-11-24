@@ -11,8 +11,7 @@ The stack is:
   - **CSS Modules**
   - **postCSS**
 
-![Demonstration Screencast](http://recordit.co/Y1ie0o56AO.gif)
-
+The features are:
  - Simple routing system
  - Redux actions & reducers system
  - Epic Rx actions system
