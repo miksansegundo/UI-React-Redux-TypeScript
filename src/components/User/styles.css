@@ -1,0 +1,9 @@
+.ts-user-input {
+  margin-right: 4px;
+}
+.ts-user-avatar {
+  margin-right: 10px;
+}
+.ts-text-error {
+  color: #a94442 !important;
+}
